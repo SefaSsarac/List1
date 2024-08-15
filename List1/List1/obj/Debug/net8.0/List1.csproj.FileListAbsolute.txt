@@ -1,0 +1,14 @@
+D:\Yazılım\Repository\List1\List1\bin\Debug\net8.0\List1.exe
+D:\Yazılım\Repository\List1\List1\bin\Debug\net8.0\List1.deps.json
+D:\Yazılım\Repository\List1\List1\bin\Debug\net8.0\List1.runtimeconfig.json
+D:\Yazılım\Repository\List1\List1\bin\Debug\net8.0\List1.dll
+D:\Yazılım\Repository\List1\List1\bin\Debug\net8.0\List1.pdb
+D:\Yazılım\Repository\List1\List1\obj\Debug\net8.0\List1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım\Repository\List1\List1\obj\Debug\net8.0\List1.AssemblyInfoInputs.cache
+D:\Yazılım\Repository\List1\List1\obj\Debug\net8.0\List1.AssemblyInfo.cs
+D:\Yazılım\Repository\List1\List1\obj\Debug\net8.0\List1.csproj.CoreCompileInputs.cache
+D:\Yazılım\Repository\List1\List1\obj\Debug\net8.0\List1.dll
+D:\Yazılım\Repository\List1\List1\obj\Debug\net8.0\refint\List1.dll
+D:\Yazılım\Repository\List1\List1\obj\Debug\net8.0\List1.pdb
+D:\Yazılım\Repository\List1\List1\obj\Debug\net8.0\List1.genruntimeconfig.cache
+D:\Yazılım\Repository\List1\List1\obj\Debug\net8.0\ref\List1.dll
